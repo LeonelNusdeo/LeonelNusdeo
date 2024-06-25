@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Leonel! 👋🏼
 
-<!--
-**LeonelNusdeo/LeonelNusdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Developer specialized in Backend, based in Buenos Aires, Argentina.
 
-Here are some ideas to get you started:
+My journey began in 2009, delivering solutions to in-house development needs using technologies like HTML5, CSS3, and JavaScript.
+Currently, I am deeply engaged with technologies such as Node.js, Express, and MongoDB, aiming to leverage my soft skills with my tech skills, learning something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Skills:
+- Languages: JavaScript (including Express and Node.js), TypeScript, Python, HTML5, CSS3
+- Frameworks/Libraries: NestJS, React, Angular
+- Database: SQL, MongoDB
+- Soft Skills: Leadership, Team Building, Communication, Problem-Solving
+
+I am enthusiastic about exploring new challenges and opportunities in software development and beyond. Feel free to reach out to me at leonel.nusdeo@gmail.com for collaboration, job opportunities, or to learn more about me.
+
+Let's connect! 🤝🏼 
