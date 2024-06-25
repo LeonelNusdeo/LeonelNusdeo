@@ -6,8 +6,8 @@ My journey began in 2009, delivering solutions to in-house development needs usi
 Currently, I am deeply engaged with technologies such as Node.js, Express, and MongoDB, aiming to leverage my soft skills with my tech skills, learning something new every day.
 
 ## Key Skills:
-- Languages: JavaScript (including Express and Node.js), TypeScript, Python, HTML5, CSS3
-- Frameworks/Libraries: NestJS, React, Angular
+- Languages: JavaScript (including Node.js), TypeScript, Python, HTML5, CSS3
+- Frameworks/Libraries: Express.js, NestJS, React, Angular
 - Database: SQL, MongoDB
 - Soft Skills: Leadership, Team Building, Communication, Problem-Solving
 
